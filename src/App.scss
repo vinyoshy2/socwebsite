@@ -1,0 +1,334 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Subrayada');
+/***************************/
+/*        VARIABLES        */
+/***************************/
+
+$main-blue: #1E4959;
+$main-desert: #A64521;
+$secondary-desert: #BF6836;
+$beige: #F2D8C2;
+$body-font: "Raleway";
+$title-font: "Montserrat";
+
+$project-image-width: 150px;
+$project-image-height: 100px;
+$topic-nav-width: 300px;
+
+$light-shadow: 0 2px 3px rgba(0, 0, 0, 0.16), 0 2px 3px rgba(0, 0, 0, 0.23);
+
+
+//****************//
+//    ELEMENTS    //
+//****************//
+
+body {
+  background: white;
+  line-height: 1.4em;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+li {
+  list-style-type: none;
+  margin-bottom: 1.5em;
+}
+
+//*****************//
+//     CLASSES     //
+//*****************//
+
+// General styles
+
+.App {
+  text-align: left;
+  font-family: $body-font;
+  color: black;
+  margin-top: 3em;
+}
+
+// Main navigation
+
+.NavBar{
+  font-family: $title-font;
+  text-align: center;
+  margin-bottom: 5em;
+}
+
+#Home {
+  font-family: "Montserrat Subrayada";
+  color: $main-desert;
+}
+
+#Research {
+  color: $main-blue;
+}
+
+#People {
+  color: $main-blue;
+}
+
+#Courses {
+  color: $main-blue;
+}
+
+.NavOption {
+  margin: .5em;
+  font-size: calc(100vw / 40);
+  cursor: pointer;
+  text-transform: uppercase;
+  &:hover {
+    animation: nav-hover .3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+  }
+}
+
+// Publication
+.Publication {
+    
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 2em;
+    display: grid;
+    grid-template-columns: [ll] 48% [gutter-left] 2% [center] 2% [gutter-right] 48% [rr];
+
+    .Info {
+      width: 100%;
+      grid-column-start: ll;
+      grid-column-end: gutter-left;
+      display: flex;
+      flex-wrap: wrap;
+
+      .Title {
+        font-family: $title-font;
+        font-weight: 600;
+        font-size: 1em;
+        color: black;
+      }
+
+      .AuthConf {
+	grid-column-start: ll;
+	display: flex;
+	flex-basis: 100%;
+	flex-wrap: wrap;
+        .Conference {
+          font-style: italic;
+	  border-radius: 5px;
+	  padding: 3px;
+	  width: max-content;
+        }
+         .Author {
+            margin-right: 5px;
+          }
+        }
+   }
+   .Description {
+     grid-column-start: gutter-right;
+     grid-column-end: rr;
+   }
+}
+
+// Topic
+
+.Topic {
+  color: black;
+  width: max-content;
+
+  &.Interactive {
+    border-radius: 15px;
+    padding: 5px;
+
+    &:hover{
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    &.Selected {
+      font-weight: bold;
+      color: black;
+    }
+  }
+
+  &.Secondary {
+    &:before{
+      content: "#";
+    }
+  }
+}
+
+// TopicNav
+
+.TopicNav {
+  margin-left: 10%;
+  position: absolute;
+  height: 100%;
+  float: left;
+}
+
+// People
+
+.StudentList {
+  margin-top: 2em;
+  margin-bottom: 1em;
+  font-size: 1.5em;
+  border-bottom: 1px solid black;
+}
+.Person {
+    .ImageContainer {
+      width: 120px;
+      height: 120px;
+      position: relative;
+      overflow: hidden;
+      margin-bottom: 5px;
+      box-shadow: $light-shadow;
+      border-radius: 50%;
+      margin-right: 20px;
+    }
+
+    .Name {
+      font-family: $title-font;
+      font-weight: 600;
+      color: black;
+      &:hover{
+        font-weight: bold;
+      }
+    }
+
+    .Image {
+      width: 100%;
+      max-width: 25em;
+      max-height: 25em;
+    }
+
+    .FacultyRole {
+      display: inline-block;
+      font-size: 0.8em;
+      text-align: center;
+      color: rgb(129,129,129);
+    }
+
+    .FacultyContact {
+      padding-top: 20px;
+      font-size: 0.9em;
+
+      .label {
+        color: rgb(129,129,129);
+      }
+    }
+
+    .DegreeYear {
+      line-height: 1.2em;
+      display: inline-block;
+      padding: 0 5px;
+      font-size: 0.8em;
+      text-align: center;
+      border-radius: 5px;
+      margin-left: 3px;
+
+    }
+
+    .CurrentRole {
+      font-size: 0.9em;
+      font-weight: bold;
+      font-style: italic;
+    }
+
+    .BriefIntro {
+      font-size: 0.9em;
+      padding-bottom: 30px;
+    }
+}
+.Alumni {
+  .ImageContainer {
+    width: 120px;
+    height: 120px;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 5px;
+    box-shadow: $light-shadow;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+
+  .Name {
+    font-family: $title-font;
+    font-weight: 600;
+    color: black;
+    &:hover{
+      font-weight: bold;
+    }
+  }
+
+  .Image {
+    width: 100%;
+    max-width: 25em;
+    max-height: 25em;
+  }
+
+  .DegreeYear {
+    line-height: 1.2em;
+    display: inline-block;
+    font-size: 0.8em;
+    text-align: center;
+    color: black;
+  }
+
+  .CurrentRole {
+    font-size: 0.9em;
+    font-weight: bold;
+    font-style: italic;
+  }
+}
+
+// Home
+
+.Home{
+    margin: 1em 15em 2em 15em;
+    margin-top: 1em;
+
+    .Top{
+	position: relative;
+ //     display: inline-grid;
+   //   grid-template-columns: [left] 55% [center] 45% [right] 
+    }
+
+    .Statement{
+      background-color: white;
+      z-index: 100;
+      position: absolute;
+      margin-left: 70%;
+      strong {
+        color: $main-blue;
+      }
+     // grid-column-start: left;
+     // grid-column-end: center;
+    }
+
+    .WhatsNew{
+      z-index: 100%;
+      position: absolute;
+      h2 {
+        color: $main-desert;
+      }
+    }
+
+}
+
+
+/****************************/
+/*        ANIMATIONS        */
+/****************************/
+@keyframes nav-hover {
+  from {
+    text-shadow: 0px 0px black;
+  }
+
+  to {
+    text-shadow: -2px -3px black;
+  }
+}

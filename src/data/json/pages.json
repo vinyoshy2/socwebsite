@@ -1,0 +1,20 @@
+{
+  "pages":[
+    {
+      "title": "Social Spaces",
+      "extension": "Home"
+    },
+    {
+      "title": "Research",
+      "extension": "Research"
+    },
+    {
+      "title": "People",
+      "extension": "People"
+    },
+    {
+      "title": "Courses",
+      "extension": "Courses"
+    }
+  ]
+}

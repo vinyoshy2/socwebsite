@@ -1,0 +1,2529 @@
+{
+    "entries": [
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Live Streaming Intensifies Emotions: Evidence from Live and Retrospective Comments on YouTube",
+            "url": "javascript:;",
+            "year": 2020,
+            "conference": "CSCW 2020",
+            "authorIds": [
+                "M. Luo",
+                " T. Hsu",
+                " jp19",
+                " J. Hancock"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "To Label or Not to Label: The Effect of Stance and Credibility Labels on Readers' Selection and Perception of News Articles",
+            "url": "/papers/ziang/[p]Xiao_2018_To_Label_or_Not_to_Label_The_Effect_of_Stance_and_Credibility_Labels_on_Readers_Selection_and_Perception_of_News_Articles.pdf",
+            "year": 2018,
+            "conference": "CSCW 2018",
+            "authorIds": [
+                "M. Gao",
+                " zxiao5",
+                " kkarahal",
+                " W. Fu"
+            ],
+            "awards": [],
+            "topics": [
+                "Social Networks"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Should We Use an Abstract Comic Form to Persuade?: Experiments with Online Charitable Donation",
+            "url": "/papers/ziang/[p]Xiao_2019_Should_We_Use_an_Abstract_Comic_Form_to_Persuade_Experiments_with_Online_Charitable_Donation.pdf",
+            "year": 2019,
+            "conference": "CSCW 2019",
+            "authorIds": [
+                "zxiao5",
+                " P. Ho",
+                " X. Wang",
+                " kkarahal",
+                " H. Sundaram"
+            ],
+            "awards": [],
+            "topics": [
+                "Persuasion"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "A Slow Algorithm Improves Users' Assessments of the Algorithm's Accuracy",
+            "url": "/papers/joon/Slow_Algorithm_CSCW19.pdf",
+            "year": 2019,
+            "conference": "CSCW 2019",
+            "authorIds": [
+                "jp19",
+                " barber5",
+                " A. Kirlik",
+                " kkarahal"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithmic Experience"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Search Media and Elections: A Longitudinal Investigation of Political Search Results in the 2018 U.S. Elections",
+            "url": "/papers/joon/Search_Media_CSCW19.pdf",
+            "year": 2019,
+            "conference": "CSCW 2019",
+            "authorIds": [
+                "D. Metaxa",
+                " jp19",
+                " J. Landay",
+                " J. Hancock"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithm Audits"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Recommendation for Video Advertisements based on Personality Traits and Companion Content",
+            "url": "/papers/Sanorita/IUI_2020_AdReco_cameraready.pdf",
+            "year": 2020,
+            "conference": "IUI 2020",
+            "authorIds": [
+                "S. Dey",
+                " B. Duff",
+                " N. Chhaya",
+                " W. Fu",
+                " V. Swaminathan",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Persuasion"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Live Streaming Intensifies Emotions: Evidence from Live and Retrospective Comments on YouTube",
+            "url": "javascript:;",
+            "year": 2020,
+            "conference": "ICA 2020",
+            "authorIds": [
+                "M. Luo",
+                " T. Hsu",
+                " jp19",
+                " J. Hancock"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Random, Messy, Funny, Raw: Finstas as Intimate Reconfigurations of Social Media",
+            "url": "/papers/joon/Finsta_CHI20.pdf",
+            "year": 2020,
+            "conference": "CHI 2020",
+            "authorIds": [
+                "S. Xiao",
+                " D. Metaxa",
+                " jp19",
+                " kkarahal",
+                " N. Salehi"
+            ],
+            "awards": [
+                "Honorable Mention"
+            ],
+            "topics": [
+                "Social Networks"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Awareness, Navigation, and Use of Feed Control Settings",
+            "url": "/papers/silas/aware_nav_use_settings.pdf",
+            "year": 2020,
+            "conference": "CHI 2020",
+            "authorIds": [
+                "silash2",
+                " kvaccaro",
+                " yuey2",
+                " A. Rickman",
+                " kkarahal"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithmic Experience"
+            ],
+            "description": "Feed settings provide various benefits, but many users are unaware of feed settings, cannot find them, and misunderstand their function."
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "VidLyz: An Interactive Approach to Assist Novice Entrepreneurs in Making Persuasive Campaign Videos",
+            "url": "/papers/Sanorita/cscw043-deyA.pdf",
+            "year": 2019,
+            "conference": "CSCW 2019",
+            "authorIds": [
+                "S. Dey",
+                " B. Duff",
+                " W. Fu",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualisation",
+                " Persuasion",
+                " Crowdsourcing"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Search Media and Elections: Investigating Partisanship in Political Search Results",
+            "url": "javascript:;",
+            "year": 2019,
+            "conference": "ICA 2019",
+            "authorIds": [
+                "D. Metaxa",
+                " jp19",
+                " J. Landay",
+                " J. Hancock"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithm Audits"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "User Attitudes towards Algorithmic Opacity and Transparency in Online Reviewing Platforms",
+            "url": "/papers/pre-fall-2019/UserAttitudestowardsAlgorithmicOpacity.pdf",
+            "year": 2019,
+            "conference": "CHI 2019",
+            "authorIds": [
+                "meslami",
+                " kvaccaro",
+                " M. K. Lee",
+                " A. Elazari",
+                " egilbert",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithmic Experience"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Understanding Visual Cues in Visualizations Accompanied by Audio Narrations",
+            "url": "/papers/pre-fall-2019/UnderstandingVisualCuesinVisualizations.pdf",
+            "year": 2019,
+            "conference": "CHI 2019",
+            "authorIds": [
+                "hkong",
+                " W. Zhu",
+                " Z. Liu",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Trust and Recall of Information across Varying Degrees of Title-Visualization Misalignment",
+            "url": "/papers/pre-fall-2019/TrustandRecallofInformation.pdf",
+            "year": 2019,
+            "conference": "CHI 2019",
+            "authorIds": [
+                "hkong",
+                " Z. Liu",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Understanding the Effect of the Combination of Navigation Tools in Learning Spatial Knowledge",
+            "url": "/papers/pre-fall-2019/SpatialInterfaceStudy.pdf",
+            "year": 2019,
+            "conference": "SUI 2019",
+            "authorIds": [
+                "S. Dey",
+                " W. Fu",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Communicating the Algorithmic Self to Users",
+            "url": "/papers/pre-fall-2019/CommunicatingtheAlgorithmicSelfto.pdf",
+            "year": 2018,
+            "conference": "ICWSM 2018",
+            "authorIds": [
+                "meslami",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithmic Experience"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Communicating Algorithmic Process in Online Behavioral Advertising",
+            "url": "/papers/pre-fall-2019/CommunicatingAlgorithmicProcessinOnline.pdf",
+            "year": 2018,
+            "conference": "CHI 2018",
+            "authorIds": [
+                "meslami",
+                " S. R. Krishna Kumaran",
+                " C. Sandvig",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithmic Experience",
+                " Algorithm Audits"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "The Illusion of Control: Placebo Effects of Control Settings",
+            "url": "/papers/pre-fall-2019/TheIllusionofControlPlacebo.pdf",
+            "year": 2018,
+            "conference": "CHI 2018",
+            "authorIds": [
+                "kvaccaro",
+                " D. Huang",
+                " meslami",
+                " C. Sandvig",
+                " K. Hamilton",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithm Experience"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Understanding Identity Presentation in Medical Crowdfunding",
+            "url": "/papers/pre-fall-2019/UnderstandingIdentityPresentationinMedical.pdf",
+            "year": 2018,
+            "conference": "CHI 2018",
+            "authorIds": [
+                "jkim",
+                " H. Hong",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Crowdsourcing"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Frames and Slants in Titles of Visualizations on Controversial Topics",
+            "url": "/papers/pre-fall-2019/FramesandSlantsinTitles.pdf",
+            "year": 2018,
+            "conference": "CHI 2018",
+            "authorIds": [
+                "hkong",
+                " Z. Liu",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Effects of Socially Stigmatized Crowdfunding Campaigns in Shaping Opinions",
+            "url": "/papers/pre-fall-2019/EffectsofSociallyStigmatizedCrowdfunding.pdf",
+            "year": 2018,
+            "conference": "CHI 2018",
+            "authorIds": [
+                "sdey4",
+                " K. Karahalios",
+                " W.T. Fu"
+            ],
+            "awards": [
+                "Honorable Mention"
+            ],
+            "topics": [
+                "Crowdsourcing"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "A Comparative Study of Visualizations with Different Granularities of Behavior for Communicating about Autism",
+            "url": "/papers/pre-fall-2019/AComparativeStudyofVisualizations.pdf",
+            "year": 2018,
+            "conference": "CSCW 2018",
+            "authorIds": [
+                "hkong",
+                " jlee",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization",
+                " Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Getting There and Beyond: Incidental Learning of Spatial Knowledge with Turn-by-Turn Directions and Location Updates in Navigation Interfaces",
+            "url": "/papers/pre-fall-2019/Spatial_navigation_cameraready.pdf",
+            "year": 2018,
+            "conference": "SUI 2018",
+            "authorIds": [
+                "S. Dey",
+                " W. Fu",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Acoustic correlates for perceived effort levels in male and female acted voices",
+            "url": "/papers/pre-fall-2019/Acousticcorrelatesforperceivedeffortinmale.pdf",
+            "year": 2017,
+            "conference": "J Acoust Soc Am",
+            "authorIds": [
+                "mpietrowicz",
+                " M. Hasegawa-Johnson",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Internal and External Visual Cue Preferences for Visualizations in Presentations",
+            "url": "/papers/pre-fall-2019/InternalandExternalVisualCue.pdf",
+            "year": 2017,
+            "conference": "EuroVis 2017",
+            "authorIds": [
+                "hkong",
+                " Z. Liu",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "\"\"\"Be careful; things can be worse than they appear\"\": Understanding Biased Algorithms and Users' Behavior around Them in Rating Platforms\"",
+            "url": "/papers/pre-fall-2019/Becarefulthingscanbe.pdf",
+            "year": 2017,
+            "conference": "ICWSM 2017",
+            "authorIds": [
+                "meslami",
+                " kvaccaro",
+                " K. Karahalios",
+                " K. Hamilton"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithm Audits"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Investigating Users' Understanding of Invisible Algorithms and Designing around It",
+            "url": "/papers/pre-fall-2019/InvestigatingUsersUnderstandingofInvisible.pdf",
+            "year": 2017,
+            "conference": "ICWSM 2017",
+            "authorIds": [
+                "meslami",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithmic Experience"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Embracing Seamfulness and Uncertainty in Designing around Hidden Algorithms",
+            "url": "/papers/pre-fall-2019/EmbracingSeamfulnessandUncertaintyin.pdf",
+            "year": 2017,
+            "conference": "CHI 2017",
+            "authorIds": [
+                "meslami",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithmic Experience"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Discovering Dimensions of Perceived Vocal Expression in Semi-structured",
+            "url": "/papers/pre-fall-2019/DiscoveringDimensionsofPerceivedVocal.pdf",
+            "year": 2017,
+            "conference": "ICASSP 2017",
+            "authorIds": [
+                "mpietrowicz",
+                " M. Hasegawa-Johnson",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Understanding the Effects of Endorsements in Scientific Crowdfunding",
+            "url": "/papers/pre-fall-2019/UnderstandingtheEffectsofEndorsements.pdf",
+            "year": 2017,
+            "conference": "CHI 2017",
+            "authorIds": [
+                "sdey4",
+                " K. Karahalios",
+                " W. Fu"
+            ],
+            "awards": [],
+            "topics": [
+                "Crowdsourcing"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "You Want Me to Work with Who? Stakeholder Perceptions of Automated Team Formation in Engineering Courses",
+            "url": "/papers/pre-fall-2019/YouWantMetoWork.pdf",
+            "year": 2017,
+            "conference": "CHI 2017",
+            "authorIds": [
+                "F. Jahanbakhsh",
+                " K. Karahalios",
+                " W.T. Fu",
+                " D. Marinov",
+                " B.P. Bailey"
+            ],
+            "awards": [
+                "Best Paper"
+            ],
+            "topics": [
+                "Algorithmic Experience"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Skin Conductance as an In Situ Marker for Emotional Arousal in Children with Neurodevelopmental Communication Impairments: Methodological Considerations and Clinical Implications",
+            "url": "/papers/pre-fall-2019/SkinConductanceasanIn.pdf",
+            "year": 2017,
+            "conference": "TACESS",
+            "authorIds": [
+                "M. Betancourt",
+                " L. Dethorne",
+                " K. Karahalios",
+                " jkim"
+            ],
+            "awards": [],
+            "topics": [
+                "Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Effortless Data Exploration with Zevisage: An Expressive and Interactive Visual Analytics Systems",
+            "url": "/papers/pre-fall-2019/EffortlessDataExplorationwithZevisage.pdf",
+            "year": 2017,
+            "conference": "VLDB 2017",
+            "authorIds": [
+                "T. Siddiqui",
+                " A. Kim",
+                " jlee",
+                " K. Karahalios",
+                " A. Parameswaran"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Quantifying Search Bias: Investigating Sources of Bias for Political Searches in Social Media",
+            "url": "/papers/pre-fall-2019/QuantifyingSearchBiasInvestigatingSources.pdf",
+            "year": 2017,
+            "conference": "CSCW 2017",
+            "authorIds": [
+                "J. Kulshrestha",
+                " meslami",
+                " J. Messias",
+                " M. B. Zafar",
+                " S. Ghosh",
+                " K. Gummadi",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithm Audits"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Not by Money Alone: Social Support Opportunities in Medical Crowdfunding Campaigns",
+            "url": "/papers/pre-fall-2019/NotbyMoneyAloneSocial.pdf",
+            "year": 2017,
+            "conference": "CSCW 2017",
+            "authorIds": [
+                "jkim",
+                " kvaccaro",
+                " K. Karahalios",
+                " H. Hong"
+            ],
+            "awards": [],
+            "topics": [
+                "Crowdsourcing"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "The Art and Science of Persuasion: Not All Crowdfunding Campaign Videos Are The Same",
+            "url": "/papers/pre-fall-2019/TheArtandScienceof.pdf",
+            "year": 2017,
+            "conference": "CSCW 2017",
+            "authorIds": [
+                "sdey4",
+                " B. Duff",
+                " K. Karahalios",
+                " W. Fu"
+            ],
+            "awards": [],
+            "topics": [
+                "Crowdfunding",
+                " Persuasion"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "When the Algorithm Itself Is a Racist: Diagnosing Ethical Harm in the Basic Components of Software",
+            "url": "/papers/pre-fall-2019/WhentheAlgorithmItselfIs.pdf",
+            "year": 2016,
+            "conference": "International Journal of Communication 2016",
+            "authorIds": [
+                "C. Sandvig",
+                " K. Hamilton",
+                " K. Karahalios",
+                " C. Langbort"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithm Audits",
+                " Algorithmic Experience"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Relevance-aware Filtering of Tuples Sorted by an Attribute Value via Direct Optimization of Search Quality Metrics",
+            "url": "/papers/pre-fall-2019/RelevanceawareFilteringofTuplesSorted.pdf",
+            "year": 2016,
+            "conference": "CIKM 2016",
+            "authorIds": [
+                "nspirin",
+                " A. Kotov",
+                " K. Karahalios",
+                " V. Mladenov",
+                " P. Izhutov"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Parental Perceptions, Experiences, and Desires of Music Therapy",
+            "url": "/papers/pre-fall-2019/ParentalPerceptions.pdf",
+            "year": 2016,
+            "conference": "AMIA 2016",
+            "authorIds": [
+                "H. Kong",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Plexlines: Tracking Socio-communicative Behaviors Using Timeline Visualizations",
+            "url": "/papers/pre-fall-2019/TrackingSociocommunicativeBehaviors.pdf",
+            "year": 2016,
+            "conference": "AMIA 2016",
+            "authorIds": [
+                "J. Lee",
+                " hkong",
+                " slin",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization",
+                " Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "EnGaze: Designing Behavior Visualizations with and for Behavioral Scientists",
+            "url": "/papers/pre-fall-2019/EnGazeDesigningBehaviorVisualizationswith.pdf",
+            "year": 2016,
+            "conference": "DIS 2016",
+            "authorIds": [
+                "hkong",
+                " jlee",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "\"First I \"\"like\"\" it, then I hide it: Folk Theories of Social Feeds\"",
+            "url": "/papers/pre-fall-2019/FirstIlikeit.pdf",
+            "year": 2016,
+            "conference": "CHI 2016",
+            "authorIds": [
+                "meslami",
+                " K. Karahalios",
+                " C. Sandvig",
+                " kvaccaro",
+                " A. Rickman",
+                " K. Hamilton",
+                " A. Kirlik"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithmic Experience"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "The Power of Collective Endorsements: Credibility Factors in Medical Crowdfunding Campaigns",
+            "url": "/papers/pre-fall-2019/ThePowerofCollectiveEndorsements.pdf",
+            "year": 2016,
+            "conference": "CHI 2016",
+            "authorIds": [
+                "jkim",
+                " hkong",
+                " K. Karahalios",
+                " W. Fu",
+                " H. Hong"
+            ],
+            "awards": [],
+            "topics": [
+                "Crowdsourcing"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "MapWatch: Detecting and Monitoring International Border Personalization on Online Maps",
+            "url": "/papers/pre-fall-2019/MapWatchDetectingandMonitoringInternational.pdf",
+            "year": 2016,
+            "conference": "WWW 2016",
+            "authorIds": [
+                "G. Soeller",
+                " K. Karahalios",
+                " C. Sandvig",
+                " C. Wilson"
+            ],
+            "awards": [],
+            "topics": [
+                "Crowdsourcing",
+                " Algorithm Audits"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Visualizing Syllables: Real-Time Computerized Feedback Within a Speech-Language Intervention",
+            "url": "javascript:;",
+            "year": 2015,
+            "conference": "Journal of Autism and Developmental Disorders 2015",
+            "authorIds": [
+                "L. DeThorne",
+                " M. A. Betancourt",
+                " K. Karahalios",
+                " J. Halle",
+                " E. Bogue"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "DataTone: Managing Ambiguity in Natural Language Interfaces for Data Visualization",
+            "url": "/papers/pre-fall-2019/DataToneManagingAmbiguityinNatural.pdf",
+            "year": 2015,
+            "conference": "UIST 2015",
+            "authorIds": [
+                "T. Gao",
+                " M. Dontcheva",
+                " E. Adar",
+                " Z. Liu",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Relevance-aware Filtering of Tuples Sorted by an Attribute Value via Direct Optimization of Search Quality Metrics",
+            "url": "/papers/pre-fall-2019/RelevanceawareFilteringofTuplesSorted.pdf",
+            "year": 2015,
+            "conference": "SIGIR 2015",
+            "authorIds": [
+                "nspirin",
+                " M. Kuznetsov",
+                " J. Kiseleva",
+                " Y. Spirin",
+                " P. Izhutov"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Culture, Imagined Audience, and Language Choices of Multilingual Chinese and Korean Students on Facebook",
+            "url": "/papers/pre-fall-2019/CultureImaginedAudienceandLanguage",
+            "year": 2015,
+            "conference": "SocInfo 2015",
+            "authorIds": [
+                "hkong",
+                " W. Wu",
+                " B. Bailey",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Labor Saving and Labor Making of Value in Online Congratulatory Messages",
+            "url": "/papers/pre-fall-2019/LaborSavingandLaborMaking.pdf",
+            "year": 2015,
+            "conference": "SocInfo 2015",
+            "authorIds": [
+                "jkim",
+                " S. Park",
+                " K. Karahalios",
+                " M. Twidale"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Visual Analysis of Relationships between Behavioral and Physiological Sensor Data",
+            "url": "/papers/pre-fall-2019/VisualAnalysisofRelationshipsbetween.pdf",
+            "year": 2015,
+            "conference": "ICHI 2015",
+            "authorIds": [
+                "jkim",
+                " M. Snodgrass",
+                " mpietrowicz",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Acoustic Correlates for Perceived Effort Levels in Expressive Speech",
+            "url": "/papers/pre-fall-2019/AcousticCorrelatesforPerceivedEffortinExpressive.pdf",
+            "year": 2015,
+            "conference": "INTERSPEECH 2015",
+            "authorIds": [
+                "mpietrowicz",
+                " M. Hasegawa-Johnson",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Can an Algorithm be Unethical?",
+            "url": "/papers/pre-fall-2019/CananAlgorithmbeUnethical.pdf",
+            "year": 2015,
+            "conference": "ICA 2015",
+            "authorIds": [
+                "C. Sandvig",
+                " K. Hamilton",
+                " K. Karahalios",
+                " C. Langbort"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithmic Experience",
+                " Algorithm Audits"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "I always assumed that I wasn't really that close to [her]: Reasoning about invisible algorithms in the news feed",
+            "url": "/papers/pre-fall-2019/IalwaysassumedthatI.pdf",
+            "year": 2015,
+            "conference": "CHI 2015",
+            "authorIds": [
+                "meslami",
+                " A. Rickman",
+                " kvaccaro",
+                " A. Aleyasen",
+                " A. Vuong",
+                " K. Karahalios",
+                " K. Hamilton",
+                " C. Sandvig"
+            ],
+            "awards": [
+                "Best Paper"
+            ],
+            "topics": [
+                "Algorithmic Experience",
+                " Algorithm Audits"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Agree or Cancel? Research and Terms of Service Compliance",
+            "url": "/papers/pre-fall-2019/AgreeorCancelResearchand.pdf",
+            "year": 2015,
+            "conference": "CSCW 2015",
+            "authorIds": [
+                "kvaccaro",
+                " K. Karahalios",
+                " C. Sandvig",
+                " K. Hamilton",
+                " S. Langbort"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithm Audits"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "FeedVis: A Path for Exploring News Feed Curation Algorithms",
+            "url": "/papers/pre-fall-2019/FeedVisAPathforExploring.pdf",
+            "year": 2015,
+            "conference": "CSCW 015",
+            "authorIds": [
+                "meslami",
+                " A. Aleyasen",
+                " K. Karahalios",
+                " K. Hamilton",
+                " C. Sandvig"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization",
+                " Algorithm Audits"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "The image of the algorithmic city: a research approach",
+            "url": "/papers/pre-fall-2019/Theimageofthealgorithmic.pdf",
+            "year": 2014,
+            "conference": "IxD&A 2014",
+            "authorIds": [
+                "K. Hamilton",
+                " K. Karahalios",
+                " C. Sandvig",
+                " C. Langbort"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithmic Experience"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Auditing Algorithms: Research Methods for Detecting Discrimination on Internet Platforms",
+            "url": "/papers/pre-fall-2019/AuditingAlgorithmsResearchMethodsfor.pdf",
+            "year": 2014,
+            "conference": "ICA 2014",
+            "authorIds": [
+                "C. Sandvig",
+                " K. Hamilton",
+                " K. Karahalios",
+                " C. Langbort"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithm Audits"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "People Search within an Online Social Network: Large Scale Analysis of Facebook Graph Search Query Logs",
+            "url": "/papers/pre-fall-2019/PeopleSearchwithinanOnline.pdf",
+            "year": 2014,
+            "conference": "CIKM 2014",
+            "authorIds": [
+                "nspirin",
+                " J. He",
+                " M. Develin",
+                " K. Karahalios",
+                " M.Boucher"
+            ],
+            "awards": [],
+            "topics": [
+                "Social Networks"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Friend Grouping Algorithms for Online Social Networks: preference",
+            "url": "/papers/pre-fall-2019/FriendGroupingAlgorithmsforOnline.pdf",
+            "year": 2014,
+            "conference": "SocInfo 2014",
+            "authorIds": [
+                "meslami",
+                " A. Aleyasen",
+                " R. Zilouchian Moghaddam",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Social Networks",
+                " Algorithm Audits"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "The Role of Network Distance in LinkedIn People Search",
+            "url": "/papers/pre-fall-2019/TheRoleofNetworkDistance.pdf",
+            "year": 2014,
+            "conference": "SIGR 2014",
+            "authorIds": [
+                "S. Huang",
+                " D. Tunkelang",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Social Networks"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Visualizing Vocal Expression",
+            "url": "/papers/pre-fall-2019/VisualizingVocalExpression.pdf",
+            "year": 2014,
+            "conference": "CHI EA 2014",
+            "authorIds": [
+                "M. Pietrowicz",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualizations"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Evaluation of Automated Friend Grouping in Online Social Networks",
+            "url": "/papers/pre-fall-2019/EvaluationofAutomatedFriendGrouping.pdf",
+            "year": 2014,
+            "conference": "CHI EA 2014",
+            "authorIds": [
+                "meslami",
+                " A. Aleyasen",
+                " R. Zilouchian Moghaddam",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithm Audits",
+                " Social Networks"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "A Path to Understanding the Effects of Algorithm Awareness",
+            "url": "/papers/pre-fall-2019/APathtoUnderstandingthe.pdf",
+            "year": 2014,
+            "conference": "CHI-alt 2014",
+            "authorIds": [
+                "K. Hamilton",
+                " K. Karahalios",
+                " C. Sandvig",
+                " meslami"
+            ],
+            "awards": [],
+            "topics": [
+                "Algorithmic Experience"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Searching for Design Examples with Crowdsourcing",
+            "url": "/papers/pre-fall-2019/SearchingforDesignExampleswith.pdf",
+            "year": 2014,
+            "conference": "WWW 2014",
+            "authorIds": [
+                "nspirin",
+                " meslami",
+                " J. Ding",
+                " P. Jain",
+                " B. Bailey",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Crowdsourcing"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Unsupervised Approach to Generate Informative Structured Snippets for Job Search Engines",
+            "url": "/papers/pre-fall-2019/UnsupervisedApproachtoGenerateInformative.pdf",
+            "year": 2013,
+            "conference": "WWW 2013",
+            "authorIds": [
+                "nspirin",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Likeness and Dealbreakers: Interpreting Interpersonal Compatibility from Online Music Profiles",
+            "url": "/papers/pre-fall-2019/LikenessandDealbreakersInterpretingInterpersonal.pdf",
+            "year": 2013,
+            "conference": "INTERACT 2013",
+            "authorIds": [
+                "M. Kudeki",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Social Networks"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Make Community Detection More Human",
+            "url": "/papers/pre-fall-2019/MakeCommunityDetectionMoreHuman.pdf",
+            "year": 2013,
+            "conference": "HCIC Boaster 2013",
+            "authorIds": [
+                "meslami",
+                " A. Aleyasen",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Social Networks",
+                " Algorithm Audits"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Visualizing Patterns of Social and Communicative Behavior in Children Using Plexlines",
+            "url": "/papers/pre-fall-2019/VisualizingPatternsofSocialand.pdf",
+            "year": 2013,
+            "conference": "VAHC 2013",
+            "authorIds": [
+                "jlee",
+                " slin",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "BEDA: Visual analytics for behavioral and physiological data",
+            "url": "/papers/pre-fall-2019/BEDAVisualanalyticsforbehavioral.pdf",
+            "year": 2013,
+            "conference": "VAHC 2013",
+            "authorIds": [
+                "jkim",
+                " M. Snodgrass",
+                " mpietrowicz",
+                " K. Karahalios",
+                " J. Halle"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "CrowdBand: An Automated Crowdsourcing Sound Composition System",
+            "url": "/papers/pre-fall-2019/CrowdBandAnAutomatedCrowdsourcingSound.pdf",
+            "year": 2013,
+            "conference": "HCOMP 2013",
+            "authorIds": [
+                "mpietrowicz",
+                " dchopra",
+                " A. Sadeghi",
+                " P. Chandra",
+                " B.P. Bailey",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Crowdsourcing"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Sonic Shapes: Visualizing Vocal Expression",
+            "url": "/papers/pre-fall-2019/SonicShapesVisualizingVocalExpression.pdf",
+            "year": 2013,
+            "conference": "ICAD 2013",
+            "authorIds": [
+                "mpietrowicz",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "ACES: A Cross-Discipline Platform and Method for Communication and Language Research",
+            "url": "/papers/pre-fall-2019/ACESACrossDisciplinePlatformand.pdf",
+            "year": 2013,
+            "conference": "CSCW 2013",
+            "authorIds": [
+                "jhailpern",
+                " M. Danilevsky",
+                " aharris",
+                " S. Sunnah",
+                " R. LaBotz",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Phonetic Shapes: An Interactive, Sonic Guest Book",
+            "url": "/papers/pre-fall-2019/PhoneticShapesAnInteractive.pdf",
+            "year": 2012,
+            "conference": "CHIEA 2012",
+            "authorIds": [
+                "mpietrowicz",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Designing Visualizations to Facilitate Multisyllabic Speech with Children with Autism and Speech Delays",
+            "url": "/papers/pre-fall-2019/DesigningVisualizationstoFacilitateMultisyllabic.pdf",
+            "year": 2012,
+            "conference": "DIS 2012",
+            "authorIds": [
+                "jhailpern",
+                " aharris",
+                " R. LaBotz",
+                " B. Birman",
+                " K. Karahalios",
+                " L. DeThorne",
+                " J. Halle"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization",
+                " Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Discovery-based Games for Learning Software",
+            "url": "/papers/pre-fall-2019/DiscoverybasedGamesforLearningSoftware.pdf",
+            "year": 2012,
+            "conference": "CHI 2012",
+            "authorIds": [
+                "Tao Dong",
+                " Mira Dontcheva",
+                " Diana Joseph",
+                " Karrie Karahalios",
+                " Mark W. Newman",
+                " Mark S. Ackerman"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Aphasia Emulation, Realism, and the Turing Test",
+            "url": "/papers/pre-fall-2019/AphasiaEmulationRealismandthe.pdf",
+            "year": 2012,
+            "conference": "ASSETS 2011",
+            "authorIds": [
+                "jhailpern",
+                " K. Danilevsky",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Distorting Social Feedback in Visualizations of Conversation",
+            "url": "/papers/pre-fall-2019/DistortingSocialFeedbackinVisualizations.pdf",
+            "year": 2012,
+            "conference": "HICSS 2012",
+            "authorIds": [
+                "tbergstrom",
+                " Karrie Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Encouraging Initiative in the Classroom with Anonymous Feedback",
+            "url": "/papers/pre-fall-2019/EncouragingInitiativeintheClassroom.pdf",
+            "year": 2011,
+            "conference": "INTERACT 2011",
+            "authorIds": [
+                "tbergstrom",
+                " Andrew Harris and Karrie Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Education"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Social Mirrors: Visualization as Conversation Feedback",
+            "url": "/papers/pre-fall-2019/SocialMirrorsVisualizationasConversation.pdf",
+            "year": 2011,
+            "conference": "Phd Dissertation",
+            "authorIds": [
+                "tbergstrom"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Promoting Empathy Towards Aphasia Through Language Distotion Emulation Software",
+            "url": "javascript:;",
+            "year": 2011,
+            "conference": "HI 2011",
+            "authorIds": [
+                "jhailpern",
+                " M. Danilevsky",
+                " A. Harris",
+                " K. Karahalios",
+                " G. Dell",
+                " J. Hengst"
+            ],
+            "awards": [],
+            "topics": [
+                "Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "YouPivot: Improving Recall with Contextual Search",
+            "url": "/papers/pre-fall-2019/YouPivotImprovingRecallwithContextual.pdf",
+            "year": 2011,
+            "conference": "HI 2011",
+            "authorIds": [
+                "jhailpern",
+                " N. Jitkoff",
+                " A. Warr",
+                " K. Karahalios",
+                " R. Sesek",
+                " N. Shkrob"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "VocSyl: Visualizing Syllable Production for Children with ASD and Speech Delay",
+            "url": "/papers/pre-fall-2019/VocSylVisualizingSyllableProductionfor.pdf",
+            "year": 2010,
+            "conference": "ASSETS 2010",
+            "authorIds": [
+                "jhailpern",
+                " K. Karahalios",
+                " L. DeThorne",
+                " J. Halle"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization",
+                " Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Walking in Another's Shoes: Aphasia Emulation Software",
+            "url": "/papers/pre-fall-2019/WalkinginAnothersShoesAphasia.pdf",
+            "year": 2010,
+            "conference": "ASSETS 2010",
+            "authorIds": [
+                "jhailpern",
+                " M. Danilevsky",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Widespread Worry and the Stock Market",
+            "url": "/papers/pre-fall-2019/WidespreadWorryandtheStock.pdf",
+            "year": 2010,
+            "conference": "ICWSM 2010",
+            "authorIds": [
+                "egilbert",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "The CLOTHO Project: Predicting Application Utility",
+            "url": "/papers/pre-fall-2019/TheCLOTHOProjectPredictingApplication.pdf",
+            "year": 2010,
+            "conference": "DIS 2010",
+            "authorIds": [
+                "jhailpern",
+                " N. Jitkoff",
+                " J. Subida",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Understanding Deja Reviewers",
+            "url": "/papers/pre-fall-2019/UnderstandingDejaReviewers.pdf",
+            "year": 2010,
+            "conference": "CSCW 2010",
+            "authorIds": [
+                "egilbert",
+                " Karrie Karahalios"
+            ],
+            "awards": [
+                "Best Paper"
+            ],
+            "topics": [
+                "Persuasion"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Social Mirrors as Social Signals:Transforming Audio into Graphics",
+            "url": "/papers/pre-fall-2019/SocialMirrorsasSocialSignalsTransforming.pdf",
+            "year": 2009,
+            "conference": "IEEE 2009",
+            "authorIds": [
+                "K. Karahalios",
+                " tbergstrom"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Talking Points: The differential impact of real-time computer generated audio/visual feedback on speech-like & non-speech-like vocalizations in low functioning children with ASD",
+            "url": "/papers/pre-fall-2019/TalkingPointsThedifferentialimpact.pdf",
+            "year": 2009,
+            "conference": "ASSETS 2009",
+            "authorIds": [
+                "jhailpern",
+                " K. Karahalios",
+                " L. DeThorne",
+                " J. Halle"
+            ],
+            "awards": [],
+            "topics": [
+                "Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "DTorial: An interactive tutorial framework for blind users in a Web 2",
+            "url": "/papers/pre-fall-2019/DTorialAninteractivetutorialframework.pdf",
+            "year": 2009,
+            "conference": "INTERACT 2009",
+            "authorIds": [
+                "jhailpern",
+                " L. G. Reid",
+                " R. Boardman"
+            ],
+            "awards": [],
+            "topics": [
+                "Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Vote and Be Heard: Adding Back-Channel Cues to Social Mirrors",
+            "url": "/papers/pre-fall-2019/VoteandBeHeardAdding.pdf",
+            "year": 2009,
+            "conference": "INTERACT 2009",
+            "authorIds": [
+                "tbergstrom",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "A3: HCI Coding Guideline for Research Using Video Annotation to Assess Behavior of Nonverbal Subjects with Computer-Based Intervention",
+            "url": "/papers/pre-fall-2019/AHCICodingGuidelinefor.pdf",
+            "year": 2009,
+            "conference": "TACCESS",
+            "authorIds": [
+                "jhailpern",
+                " K. Karahalios",
+                " J. Halle",
+                " L. DeThorne",
+                " Coletto"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Visualizing Remote Vice Conversations: Uses from Artifacts to Archival",
+            "url": "/papers/pre-fall-2019/VisualizingRemoteViceConversationsUses.pdf",
+            "year": 2009,
+            "conference": "Master's Thesis",
+            "authorIds": [
+                "pmathur"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "WEB 2.0: Blind Access to an Accessible New World",
+            "url": "javascript:;",
+            "year": 2009,
+            "conference": "WWW 2009",
+            "authorIds": [
+                "jhailpern",
+                " L.G. Reid",
+                " R. Boardman",
+                " S. Annam"
+            ],
+            "awards": [],
+            "topics": [
+                "Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Predicting Tie Strength With Social Media",
+            "url": "/papers/pre-fall-2019/PredictingTieStrengthWithSocial.pdf",
+            "year": 2009,
+            "conference": "CHI 2009",
+            "authorIds": [
+                "egilbert",
+                " Karrie Karahalios"
+            ],
+            "awards": [
+                "Best Paper"
+            ],
+            "topics": [
+                "Social Networks"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Creating a Spoken Impact: encouraging vocalization through audio visual feedback",
+            "url": "/papers/pre-fall-2019/CreatingaSpokenImpactencouraging.pdf",
+            "year": 2009,
+            "conference": "CHI 2009",
+            "authorIds": [
+                "jhailpern",
+                " K. Karahalios",
+                " J. Halle"
+            ],
+            "awards": [],
+            "topics": [
+                "Accessibility",
+                " Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Conversation Clusters: Grouping Conversation Topics through Human-Computer Dialog",
+            "url": "/papers/pre-fall-2019/ConversationClustersGroupConversationTopics.pdf",
+            "year": 2009,
+            "conference": "CHI 2009",
+            "authorIds": [
+                "tbergstrom",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Social Networks"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Visualizing Remote Voice Conversations",
+            "url": "/papers/pre-fall-2019/VisualizingRemoteVoiceConversations.pdf",
+            "year": 2009,
+            "conference": "CHI 2009",
+            "authorIds": [
+                "pmathur",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Using Bookmark Visualizations for Self-reflection and Navigation",
+            "url": "/papers/pre-fall-2019/UsingBookmarkVisualizationsforSelfreflection.pdf",
+            "year": 2009,
+            "conference": "CHI 2009",
+            "authorIds": [
+                "pmathur",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualizations"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Photo Khipu: Organizing a Public Record of Social Transaction",
+            "url": "/papers/pre-fall-2019/PhotoKhipuOrganizingPublic.pdf",
+            "year": 2009,
+            "conference": "CHI 2009",
+            "authorIds": [
+                "kbongen",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Using Social Visualization to Motivate Social Production",
+            "url": "/papers/pre-fall-2019/UsingSocialVisualizationtoMotivate.pdf",
+            "year": 2009,
+            "conference": "IEEE Transactions on Multimedia 2009",
+            "authorIds": [
+                "egilbert",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Blogs are Echo Chambers: Blogs are Echo Chambers",
+            "url": "/papers/pre-fall-2019/BlogsareEchoChambersBlogs.pdf",
+            "year": 2009,
+            "conference": "HICSS 2009",
+            "authorIds": [
+                "egilbert",
+                " tbergstrom",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Social Networks"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Social Visualization of Health Messages",
+            "url": "/papers/pre-fall-2019/SocialVisualizationofHealthMessages.pdf",
+            "year": 2009,
+            "conference": "HICSS 2009",
+            "authorIds": [
+                "bchee",
+                " K. Karahalios",
+                " Bruce Schatz"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "The Spoken Impact Project: Using Audio & Visual Feedback to Impact Vocalization in Non-Verbal Children with Autistic Spectrum Disorder",
+            "url": "/papers/pre-fall-2019/TheSpokenImpactProjectUsing.pdf",
+            "year": 2008,
+            "conference": "Master's Thesis",
+            "authorIds": [
+                "jhailpern"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization",
+                " Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Computerized feedback to facilitate vocalizations in nonverbal children with autism",
+            "url": "javascript:;",
+            "year": 2008,
+            "conference": "ASHA 2008",
+            "authorIds": [
+                "L. S. DeThorne",
+                " K. Karahalios",
+                " J. Halle",
+                " jhailpern",
+                " M. Coletto"
+            ],
+            "awards": [],
+            "topics": [
+                "Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Visual feedback to facilitate language in a child with autism",
+            "url": "/papers/pre-fall-2019/Visualfeedbacktofacilitatelanguage.pdf",
+            "year": 2008,
+            "conference": "ASHA 2008",
+            "authorIds": [
+                "M. Coletto",
+                " L. S. DeThorne",
+                " J. Halle",
+                " K. Karahalios",
+                " jhailpern"
+            ],
+            "awards": [],
+            "topics": [
+                "Visaulization",
+                " Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "A3: A Coding Guideline for HCI+AUtism Research using Video Annotation",
+            "url": "/papers/pre-fall-2019/A3ACodingGuidelinefor.pdf",
+            "year": 2008,
+            "conference": "ASSETS 2008",
+            "authorIds": [
+                "jhailpern",
+                " K. Karahalios",
+                " J. Halle",
+                " L. S. DeThorne",
+                " M. Coletto"
+            ],
+            "awards": [],
+            "topics": [
+                "Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Interfaces for Body, Community, And Architecture",
+            "url": "/papers/pre-fall-2019/InterfacesforBody.pdf",
+            "year": 2008,
+            "conference": "Undegraduate Thesis",
+            "authorIds": [
+                "dstolarsky"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "VCode and VData: Illustrating a new Framework for Supporting the Video Annotation Workflow",
+            "url": "javascript:;",
+            "year": 2008,
+            "conference": "AVI 2008",
+            "authorIds": [
+                "jhagedorn",
+                " jhailpern",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Visualizations: Speech, Language, and Autism-Spectrum Disorder",
+            "url": "/papers/pre-fall-2019/VisualizationsSpeech.pdf",
+            "year": 2008,
+            "conference": "CHI 2008",
+            "authorIds": [
+                "jhailpern",
+                " K. Karahalios",
+                " J. Halle",
+                " L. DeThorne",
+                " M. Coletto"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization",
+                " Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Designing a Better Energy Consumption Indicator Interface for the Home Master's Thesis",
+            "url": "/papers/pre-fall-2019/DesigningaBetterEnergyConsumption.pdf",
+            "year": 2008,
+            "conference": "Master's Thesis",
+            "authorIds": [
+                "ehinterbichler"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Conversation Clusters: Human-Computer Dialog for Topic Extraction",
+            "url": "/papers/pre-fall-2019/ConversationClustersHumanComputerDialogfor",
+            "year": 2008,
+            "conference": "CHI 2008",
+            "authorIds": [
+                "tbergstrom",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "The Network in the Garden: An Empirical Analysis of Social Media in Rural Life",
+            "url": "/papers/pre-fall-2019/TheNetworkinTheGarden.pdf",
+            "year": 2008,
+            "conference": "CHI 2008",
+            "authorIds": [
+                "egilbert",
+                " K. Karahalios",
+                " C. Sandvig"
+            ],
+            "awards": [
+                "Best Paper"
+            ],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Visualization Annotation at Internet Scale",
+            "url": "/papers/pre-fall-2019/VisualizationAnnotationatInternetScale.pdf",
+            "year": 2008,
+            "conference": "CHI 2008",
+            "authorIds": [
+                "egilbert",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Seeing Ourselves among Others",
+            "url": "/papers/pre-fall-2019/SeeingOurselvesamongOthers.pdf",
+            "year": 2008,
+            "conference": "CHI 2008",
+            "authorIds": [
+                "tbergstrom",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Encouraging Speech and Vocalization in Children with Autistic Spectrum Disorder",
+            "url": "/papers/pre-fall-2019/EncouragingSpeechandVocalizationin.pdf",
+            "year": 2008,
+            "conference": "CHI 2008",
+            "authorIds": [
+                "jhailpern",
+                " K. Karahalios",
+                " L. DeThorne",
+                " J. Halle"
+            ],
+            "awards": [],
+            "topics": [
+                "Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Encouraging Speech and Vocalization in Children with Autistic Spectrum Disorder",
+            "url": "/papers/pre-fall-2019/EncouragingSpeechandVocalizationin.pdf",
+            "year": 2007,
+            "conference": "ACM SIG ACCESS's Newsletter",
+            "authorIds": [
+                "jhailpern"
+            ],
+            "awards": [],
+            "topics": [
+                "Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Visualizing Co-located Conversation Feedback",
+            "url": "/papers/pre-fall-2019/VisualizingColocatedConversationFeedback.pdf",
+            "year": 2007,
+            "conference": "IEEE TableTop 2007",
+            "authorIds": [
+                "tbergstrom",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Tagscape: Navigating the Tag Landscape",
+            "url": "javascript:;",
+            "year": 2007,
+            "conference": "INTERACT 2007",
+            "authorIds": [
+                "lhaynes",
+                " aselcukoglu",
+                " S. Suh",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Social Networks",
+                " Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "CodeSaw: A Social Visualization of Distributed Software Development",
+            "url": "javascript:;",
+            "year": 2007,
+            "conference": "INTERACT 2007",
+            "authorIds": [
+                "egilbert",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Social Networks",
+                " Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Seeing More: Visualizing Audio Cues",
+            "url": "javascript:;",
+            "year": 2007,
+            "conference": "INTERACT 2007",
+            "authorIds": [
+                "tbergstrom",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "The Social Implications of an Assisted Living Reminder System",
+            "url": "javascript:;",
+            "year": 2007,
+            "conference": "HCI International 2007",
+            "authorIds": [
+                "balshebli",
+                " egilbert",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Isochords: Visualizing Structure in Music",
+            "url": "javascript:;",
+            "year": 2007,
+            "conference": "Graphical Interfaces 2007",
+            "authorIds": [
+                "tbergstrom",
+                " K. Karahalios",
+                " J. C. Hart"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Conversation Votes: Enabling Anonymous Cues",
+            "url": "javascript:;",
+            "year": 2007,
+            "conference": "CHI 2007",
+            "authorIds": [
+                "tbergstrom",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Exploring Passive Social Wearables with Gossip",
+            "url": "javascript:;",
+            "year": 2007,
+            "conference": "CHI 2007",
+            "authorIds": [
+                "egilbert",
+                " myapchaian",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Conversation Clock: Visualizing audio patterns in co-located groups",
+            "url": "javascript:;",
+            "year": 2007,
+            "conference": "HICSS 2007",
+            "authorIds": [
+                "tbergstrom",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Visualization of Audio Augmenting Social Interactions",
+            "url": "javascript:;",
+            "year": 2006,
+            "conference": "Master's Thesis",
+            "authorIds": [
+                "tbergstrom"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Spice - Empowering Bloggers and Their Communities",
+            "url": "javascript:;",
+            "year": 2006,
+            "conference": "Master's Thesis",
+            "authorIds": [
+                "akalra"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Tabletop Games as Social Catalysts",
+            "url": "javascript:;",
+            "year": 2006,
+            "conference": "Master's Thesis",
+            "authorIds": [
+                "hnguyen"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "A Model of Social Influence and Network Formation",
+            "url": "javascript:;",
+            "year": 2006,
+            "conference": "Senior Thesis",
+            "authorIds": [
+                "ebakshy"
+            ],
+            "awards": [],
+            "topics": [
+                "Social Networks"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Chit Chat Club",
+            "url": "javascript:;",
+            "year": 2006,
+            "conference": "ISEA 2006",
+            "authorIds": [
+                "K. Karahalios",
+                " tbergstrom",
+                " myapchaian"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Conveying Social Presence Data on the Desktop with BuddySquares",
+            "url": "javascript:;",
+            "year": 2006,
+            "conference": "Master's Thesis",
+            "authorIds": [
+                "mcritchlow"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "MyMap",
+            "url": "javascript:;",
+            "year": 2006,
+            "conference": "Master's Thesis",
+            "authorIds": [
+                "eacharya"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "A Social Messaging Interface for Location Aware Mobile Interaction",
+            "url": "javascript:;",
+            "year": 2006,
+            "conference": "Master's Thesis",
+            "authorIds": [
+                "ssaluja"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Social Visualization: Exploring Text",
+            "url": "javascript:;",
+            "year": 2006,
+            "conference": "CHI 2006",
+            "authorIds": [
+                "K. Karahalios",
+                " Fernanda Viegas"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "LifeSource: Two CVS Visualizations",
+            "url": "javascript:;",
+            "year": 2006,
+            "conference": "CHI 2006",
+            "authorIds": [
+                "egilbert",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Communicating More than Nothing",
+            "url": "javascript:;",
+            "year": 2006,
+            "conference": "CHI 2006",
+            "authorIds": [
+                "tbergstrom",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Visualizing audio in group table conversation",
+            "url": "javascript:;",
+            "year": 2006,
+            "conference": "IEEE TableTop 2006",
+            "authorIds": [
+                "K. Karahalios",
+                " T. Bergstrom"
+            ],
+            "awards": [],
+            "topics": [
+                "Visualization"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "HCI Potentials for aiding children with mental disorders",
+            "url": "javascript:;",
+            "year": 2006,
+            "conference": "ACM Crossroads 2006",
+            "authorIds": [
+                "hmobahi",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Accessibility"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Telelogs: A Social Communication Space for Urban Environments",
+            "url": "javascript:;",
+            "year": 2005,
+            "conference": "MobileHCI 2005",
+            "authorIds": [
+                "B. Davis",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Social Networks"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "ChatAmp: Talking with Music and Text",
+            "url": "javascript:;",
+            "year": 2005,
+            "conference": "INTERACT 2005",
+            "authorIds": [
+                "M. I. Graham ",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "TextTone: Expressing Emotion Through Text",
+            "url": "javascript:;",
+            "year": 2005,
+            "conference": "INTERACT 2005",
+            "authorIds": [
+                "akalra",
+                " K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "Chit Chat Club: Bridging Virtual and Physical Space for Social Interaction",
+            "url": "javascript:;",
+            "year": 2005,
+            "conference": "CHI 2005",
+            "authorIds": [
+                "K. Karahalios",
+                " K. Dobson"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "title": "FashionFone",
+            "url": "javascript:;",
+            "year": 2004,
+            "conference": "CSCW 2004",
+            "authorIds": [
+                "K. Karahalios"
+            ],
+            "awards": [],
+            "topics": [
+                "Other"
+            ],
+            "description": ""
+        }
+    ],
+    "topics": [
+        "All",
+        "Visualization",
+        "Social Networks",
+        "Algorithmic Experience",
+        "Algorithm Audits",
+        "Persuasion",
+        "Crowdsourcing",
+        "Accessibility",
+        "Other"
+    ]
+}

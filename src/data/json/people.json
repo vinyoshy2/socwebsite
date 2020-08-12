@@ -1,0 +1,534 @@
+{
+    "entries": [
+        {
+            "photoUrl": "/images/mpietrowicz.jpg",
+            "name": "Mary Pietrowicz",
+            "netId": "mpietrowicz",
+            "degree": "PhD",
+            "status": "Alumni",
+            "gradYear": 2017,
+            "pageUrl": "https://marypietrowicz.com/",
+            "currentRole": "IBM"
+        },
+        {
+            "photoUrl": "/images/nspirin.jpg",
+            "name": "Nikita Spirin",
+            "netId": "nspirin",
+            "degree": "PhD",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/meslami.jpg",
+            "name": "Motahhare Eslami",
+            "netId": "meslami",
+            "degree": "PhD",
+            "status": "Alumni",
+            "gradYear": 2019,
+            "pageUrl": "http://eslamim2.web.engr.illinois.edu/",
+            "currentRole": "Carnegie Mellon University"
+        },
+        {
+            "photoUrl": "/images/jkim.jpg",
+            "name": "Jennifer G. Kim",
+            "netId": "jkim",
+            "degree": "PhD",
+            "status": "Alumni",
+            "gradYear": 2019,
+            "pageUrl": "http://jennifergahee.com/",
+            "currentRole": "Georgia Tech"
+        },
+        {
+            "photoUrl": "/images/hkong.jpg",
+            "name": "Hidy Kong",
+            "netId": "hkong",
+            "degree": "PhD",
+            "status": "Alumni",
+            "gradYear": 2019,
+            "pageUrl": "http://www.hidykong.com/",
+            "currentRole": "Seattle University"
+        },
+        {
+            "photoUrl": "/images/jlee.png",
+            "name": "John Lee",
+            "netId": "jlee",
+            "degree": "PhD",
+            "status": "Alumni",
+            "gradYear": 2017,
+            "pageUrl": "http://johnwklee.com/",
+            "currentRole": "Amazon"
+        },
+        {
+            "photoUrl": "/images/ekarakus.jpeg",
+            "name": "Efe Karakus",
+            "netId": "ekarakus",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/jingmingzhang.jpg",
+            "name": "Jingming Zhang",
+            "netId": "jingmingzhang",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/jingxianzhang.jpg",
+            "name": "Jingxian Zhang",
+            "netId": "jingxianzhang",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": 2016,
+            "pageUrl": "https://www.jxzhang.xyz/",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/cgleason.jpg",
+            "name": "Cole Gleason",
+            "netId": "cgleason",
+            "degree": "BS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "name": "John Esponisa",
+            "netId": "jesponisa",
+            "degree": "BS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "name": "Pratik Naik",
+            "netId": "pnaik",
+            "degree": "BS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/tbergstrom.jpg",
+            "name": "Tony Bergstrom",
+            "netId": "tbergstrom",
+            "degree": "PhD",
+            "status": "Alumni",
+            "gradYear": 2011,
+            "pageUrl": "http://tonybergstrom.com/",
+            "currentRole": "Purdue University"
+        },
+        {
+            "photoUrl": "/images/egilbert.jpg",
+            "name": "Eric Gilbert",
+            "netId": "egilbert",
+            "degree": "PhD",
+            "status": "Alumni",
+            "gradYear": 2010,
+            "pageUrl": "http://eegilbert.org/",
+            "currentRole": "University of Michigan"
+        },
+        {
+            "photoUrl": "/images/jhailpern.png",
+            "name": "Joshua Hailpern",
+            "netId": "jhailpern",
+            "degree": "PhD",
+            "status": "Alumni",
+            "gradYear": 2012,
+            "pageUrl": "http://joshua.hailpern.com/",
+            "currentRole": "Kleeen Software"
+        },
+        {
+            "photoUrl": "/images/bchee.jpg",
+            "name": "Brant Chee",
+            "netId": "bchee",
+            "degree": "PhD",
+            "status": "Alumni",
+            "gradYear": 2009,
+            "pageUrl": "",
+            "currentRole": "Johns Hopkins"
+        },
+        {
+            "photoUrl": "/images/hmobahi.jpg",
+            "name": "Hossein Mobahi",
+            "netId": "hmobahi",
+            "degree": "PhD",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "name": "Manoj Krishnan",
+            "netId": "mkrishnan",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "name": "Danish Chopra",
+            "netId": "dchopra",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/aharris.png",
+            "name": "Andrew Harris",
+            "netId": "aharris",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/kbongen.jpg",
+            "name": "Kora Bongen",
+            "netId": "kbongen",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/eacharya.jpg",
+            "name": "Evan Acharya",
+            "netId": "eacharya",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/balshebli.jpg",
+            "name": "Bedoor AlShebli",
+            "netId": "balshebli",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/mcritchlow.jpg",
+            "name": "Matthew Critchlow",
+            "netId": "mcritchlow",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/bdavis.png",
+            "name": "Brian Davis",
+            "netId": "bdavis",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/mgraham.jpg",
+            "name": "M. Ian Graham",
+            "netId": "mgraham",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "name": "Erik Hinterbichler",
+            "netId": "ehinterbichler",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/akalra.jpg",
+            "name": "Ankur Kalra",
+            "netId": "akalra",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/hnguyen.jpg",
+            "name": "Huong Nguyen",
+            "netId": "hnguyen",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/pmathur.jpg",
+            "name": "Pooja Mathur",
+            "netId": "pmathur",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "name": "Sanjit Saluja",
+            "netId": "ssaluja",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/myapchaian.jpg",
+            "name": "Matthew Yapchaian",
+            "netId": "myapchaian",
+            "degree": "MS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/jbalamuta.jpg",
+            "name": "John Balamuta",
+            "netId": "jbalamuta",
+            "degree": "BS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "name": "Paul Lambert",
+            "netId": "plambert",
+            "degree": "BS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/ebakshy.jpg",
+            "name": "Etyan Bakshy",
+            "netId": "ebakshy",
+            "degree": "BS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/gdubey.jpg",
+            "name": "Gaurav Dubey",
+            "netId": "gdubey",
+            "degree": "BS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/jhagedorn.jpg",
+            "name": "Joey Hagedorn",
+            "netId": "jhagedorn",
+            "degree": "BS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/lhaynes.jpg",
+            "name": "Lauren Haynes",
+            "netId": "lhaynes",
+            "degree": "BS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/alambert.png",
+            "name": "Alex Lambert",
+            "netId": "alambert",
+            "degree": "BS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/aselcukoglu.jpg",
+            "name": "Aylin Selcukoglu",
+            "netId": "aselcukoglu",
+            "degree": "BS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/dstolarsky.jpg",
+            "name": "David Stolarsky",
+            "netId": "dstolarsky",
+            "degree": "BS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/staircase.png",
+            "name": "Sanny Lin",
+            "netId": "slin",
+            "degree": "BS",
+            "status": "Alumni",
+            "gradYear": "",
+            "pageUrl": "",
+            "currentRole": ""
+        },
+        {
+            "photoUrl": "/images/vinay.jpg",
+            "name": "Vinay Koshy",
+            "netId": "vkoshy2",
+            "degree": "PhD",
+            "status": "Current Student",
+            "gradYear": "",
+            "pageUrl": "",
+            "researchDesc": "I am interested in creating technological systems that are aware of the complex personal identities we construct for ourselves. Recently I've been interested in the role of technology in the home, and in political engagement."
+        },
+        {
+            "photoUrl": "/images/barber5.jpeg",
+            "name": "Rick Barber",
+            "netId": "barber5",
+            "degree": "PhD",
+            "status": "Current Student",
+            "gradYear": "",
+            "pageUrl": "http://rickbarber.com",
+            "researchDesc": ""
+        },
+        {
+            "photoUrl": "/images/jp19_2019.jpg",
+            "name": "Joon Sung Park",
+            "netId": "jp19",
+            "degree": "MS",
+            "status": "Current Student",
+            "gradYear": "",
+            "pageUrl": "http://www.joonsungpark.com/",
+            "researchDesc": "My area of interest broadly covers human-computer interaction, social computing, and human-centered AI, with a particular focus on better understanding and improving our interaction with complex algorithmic systems."
+        },
+        {
+            "photoUrl": "/images/tcheng10.jpg",
+            "name": "Ti-Chung Cheng",
+            "netId": "tcheng10",
+            "degree": "MS",
+            "status": "Current Student",
+            "gradYear": "",
+            "pageUrl": "https://tichung.com",
+            "researchDesc": "My research interest aims at building better tools that connect people and data, bridging Database and HCI. I am also intrested in mechanism design."
+        },
+        {
+            "photoUrl": "",
+            "name": "Kristen Vaccaro",
+            "netId": "kvaccaro",
+            "degree": "PhD",
+            "status": "Current Student",
+            "gradYear": "",
+            "pageUrl": "http://kvaccaro.com/",
+            "researchDesc": ""
+        },
+        {
+            "photoUrl": "/images/tiffany_li.jpg",
+            "name": "Tiffany Wenting Li",
+            "netId": "wenting7",
+            "degree": "PhD",
+            "status": "Current Student",
+            "gradYear": "",
+            "pageUrl": "",
+            "researchDesc": ""
+        },
+        {
+            "photoUrl": "/images/hangs2.jpg",
+            "name": "Hang Song",
+            "netId": "hangs2",
+            "degree": "BS-MS",
+            "status": "Current Student",
+            "gradYear": "",
+            "pageUrl": "",
+            "researchDesc": ""
+        },
+        {
+            "photoUrl": "/images/silas.jpg",
+            "name": "Silas Hsu",
+            "netId": "silash2",
+            "degree": "PhD",
+            "status": "Current Student",
+            "gradYear": "",
+            "pageUrl": "",
+            "researchDesc": ""
+        },
+        {
+            "photoUrl": "/images/heather.jpg",
+            "name": "Heather Huynh",
+            "netId": "hh11",
+            "degree": "MS",
+            "status": "Current Student",
+            "gradYear": "",
+            "pageUrl": "https://heabuh.com",
+            "researchDesc": ""
+        },
+        {
+            "photoUrl": "/images/SanoritaProfilePic.jpg",
+            "name": "Sanorita Dey",
+            "netId": "sdey4",
+            "degree": "PhD",
+            "status": "Current Student",
+            "gradYear": "",
+            "pageUrl": "http://sdey4.web.engr.illinois.edu/",
+            "researchDesc": "My research interests are in the areas of human-computer interaction, social computing, crowdsourcing, and mining. My work develops algorithms, systems, and experiments to understand better the promises and perils of socio-technical systems."
+        },
+        {
+            "photoUrl": "/images/ziangxiao.jpg",
+            "name": "Ziang Xiao",
+            "netId": "zxiao5",
+            "degree": "PhD",
+            "status": "Current Student",
+            "gradYear": "",
+            "pageUrl": "https://www.ziangxiao.com/",
+            "researchDesc": "I am interested in how we can use technology to better understand human behavior and what\u2019s the role of technology in persuasion. Recently, I work on conversational agents with focus on information elicitation, trust, emotion, and long-term companionship."
+        }
+    ]
+}
