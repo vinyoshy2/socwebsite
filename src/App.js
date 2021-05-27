@@ -55,23 +55,23 @@ class App extends Component {
         <Router>
           <NavBar json={pagesJson} loadPage={this.goToPage}/>
           <Switch>
-	    <Route exact path="/">
-              <HomePage />
-	    </Route>
-	    <Route exact path="/Home">
-              <HomePage />
-	    </Route>
-            <Route exact path="/People">
-              <ListPage json={peopleJson} pageType = "People"/>
-	    </Route>
-	    <Route exact path="/Research">
-              <ListPage json={publicationsJson} pageType = "Publications"/>
-	    </Route>
-            <Route exact path="/Courses">
-              <ListPage json={coursesJson} pageType = "Courses"/>
-	    </Route>
-	  </Switch>
-	</Router>
+      	    <Route exact path="/">
+                  <HomePage />
+      	    </Route>
+      	    <Route exact path="/Home">
+                  <HomePage />
+      	    </Route>
+                  <Route exact path="/People">
+                  <ListPage json={peopleJson} pageType = "People"/>
+      	    </Route>
+      	    <Route exact path="/Research">
+                  <ListPage json={publicationsJson} pageType = "Publications"/>
+      	    </Route>
+                  <Route exact path="/Courses">
+                  <ListPage json={coursesJson} pageType = "Courses"/>
+      	    </Route>
+    	    </Switch>
+    	  </Router>
       </div>
     );
   }
@@ -113,7 +113,7 @@ class NavBar extends Component {
       (page) => <NavOption
                   key={pagesArray.indexOf(page)}
                   title={page.title}
-	          extension={page.extension}
+	                extension={page.extension}
                   onClick={this.handleClick}
                 />
     );
@@ -178,16 +178,15 @@ class HomePage extends Component {
     );
 
     let projList = featuredProjects.map(
-      (project) => <li key={featuredProjects.indexOf(project)}>
+      (project, idx) => <li key={featuredProjects.indexOf(project)} className={"Proj"+idx}>
           <div>{project.title}</div>
           <div>{project.description}</div>
-          <div> {getTopPublications(2, project.projectId, publicationsJson)} </div>
+          <div> {getTopPublications(3, project.projectId, publicationsJson)} </div>
       </li>
     );
 
     return(
       <div className="Home">
-        <div className="Top">
           <div className="Statement">
             <strong>Our goal</strong> is to investigate sociable systems for mediated communication.
             This encompasses a wide range of areas:<br/><br/>
@@ -198,12 +197,13 @@ class HomePage extends Component {
             ➭ Visualize and study how people interact within social spaces<br/><br/>
             And more!
           </div> 
-	  <img src={"/images/frontpage3.jpg"} style={{width:"100%"}}/>
-        <hr />
+          <div className="Blurb">
+            Lorem ipsum dolor sit amet, mei euripidis scriptorem ne, est movet noluisse quaerendum in. Eos in legere dictas oporteat, eam cu nonumes euripidis, ei exerci accusata explicari pri. Discere luptatum consetetur in vel. Reque quodsi per ex, per cu falli fierent.
+          </div>
+	        <img src={"/images/frontpage3.jpg"} className="HomeImage"/>
         <div className="WhatsNew">
           <h2>What's New</h2>
           {projList}
-        </div>
         </div>
       </div>
 

@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700');
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url('https://fonts.googleapis.com/css?family=Montserrat+Subrayada');
+
 /***************************/
 /*        VARIABLES        */
 /***************************/
@@ -16,7 +17,7 @@ $project-image-width: 150px;
 $project-image-height: 100px;
 $topic-nav-width: 300px;
 
-$light-shadow: 0 2px 3px rgba(0, 0, 0, 0.16), 0 2px 3px rgba(0, 0, 0, 0.23);
+$light-shadow: 0 5px 5px rgba(0, 0, 0, 0.16);
 
 
 //****************//
@@ -26,6 +27,8 @@ $light-shadow: 0 2px 3px rgba(0, 0, 0, 0.16), 0 2px 3px rgba(0, 0, 0, 0.23);
 body {
   background: white;
   line-height: 1.4em;
+  padding: 0px;
+  margin: 0px;
 }
 
 a {
@@ -56,7 +59,9 @@ li {
 .NavBar{
   font-family: $title-font;
   text-align: center;
-  margin-bottom: 5em;
+  padding-bottom: 40px;
+  box-shadow: $light-shadow;
+  //margin-bottom: 50px;
 }
 
 #Home {
@@ -285,50 +290,69 @@ li {
   }
 }
 
+// Home vars
+$home-padding: 50px;
+$top-max-height: 60vh;
+
 // Home
 
 .Home{
-    margin: 1em 15em 2em 15em;
-    margin-top: 1em;
-
-    .Top{
-	position: relative;
- //     display: inline-grid;
-   //   grid-template-columns: [left] 55% [center] 45% [right] 
-    }
-
-    .Statement{
-      background-color: white;
-      z-index: 100;
-      position: absolute;
-      margin-left: 70%;
-      strong {
-        color: $main-blue;
-      }
-     // grid-column-start: left;
-     // grid-column-end: center;
-    }
-
-    .WhatsNew{
-      z-index: 100%;
-      position: absolute;
-      h2 {
-        color: $main-desert;
-      }
-    }
-
+    display: grid;
+    grid-template-rows: [top] minmax(0, max-content) [mid] minmax(max-content, 1fr) [btm];
+    grid-template-columns: [left] 1fr [center] 1fr [blurb] 1fr [right] $home-padding [far-right];
+    overflow-x: hidden;
 }
 
+.Statement{
+  background-color: $beige;
+  strong {
+    color: $main-blue;
+  }
+  grid-row: 1;
+  grid-column: 1;
+  max-height: $top-max-height;
+
+  padding: $home-padding;
+  overflow: scroll;
+}
+
+.HomeImage{
+  grid-area: top / center / mid / far-right;
+
+  object-fit: cover;
+  overflow: hidden;
+  min-height: $top-max-height;
+  height: $top-max-height;
+}
+
+.Blurb {
+  z-index: 100;
+  grid-row: 1;
+  float: bottom;
+  grid-column: 3;
+  padding: $home-padding;
+  background-color: rgba(256, 256, 256, 0.6);
+}
+
+.WhatsNew{
+  h2 {
+    color: $main-desert;
+  }
+  grid-row: 3;
+  grid-column: 1 / 5;
+
+  padding: $home-padding;
+}
 
 /****************************/
 /*        ANIMATIONS        */
 /****************************/
 @keyframes nav-hover {
   from {
-    text-shadow: 0px 0px black;
+    text-shadow: 0px 0px gray;
   }
 
   to {
-    text-shadow: -2px -3px black;
+    text-shadow: -2px -3px lightgray;
   }
 }
