@@ -19,12 +19,12 @@ export const PeopleList = (props) => {
   let currentPeople;
   let alumniPeople;
   currentPeople = people.filter(list => {
-    return list.status.toLowerCase() == "current student";
+    return list.status.toLowerCase() === "current student";
   });
   console.log(currentPeople);
   alumniPeople = people.filter(list => {
     console.log(list.status);
-    return list.status.toLowerCase() == "alumni";
+    return list.status.toLowerCase() === "alumni";
   });
 
   return (

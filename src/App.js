@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import './App.scss';
 
 import pagesJson from './data/json/pages.json';
+import homeJson from './data/json/home.json';
 import coursesJson from './data/json/courses.json';
 import peopleJson from './data/json/people.json';
 import karrieJson from './data/json/karrie.json';
@@ -11,7 +12,7 @@ import publicationsJson from './data/json/publications.json';
 
 import {getMatchingAuthors} from './utils/utils.js'
 import {getMatchingPublications} from './utils/utils.js'
-import {getTopPublications} from './utils/utils.js'
+import {getRecentPublications} from './utils/utils.js'
 
 import Grid from '@material-ui/core/Grid';
 
@@ -170,40 +171,29 @@ class NavOption extends Component {
  */
 class HomePage extends Component {
   render(){
-    let allProjects = projectsJson.entries;
-    let featuredProjects = allProjects.filter(
-      function(value, index, arr){
-        return (value.onFrontPage === true);
-      }
+
+    let goalsList = homeJson.goals.map((goal, idx) => 
+      <li key={idx} className="Goal">{goal}</li>
     );
 
-    let projList = featuredProjects.map(
-      (project, idx) => <li key={featuredProjects.indexOf(project)} className={"Proj"+idx}>
-          <div>{project.title}</div>
-          <div>{project.description}</div>
-          <div> {getTopPublications(3, project.projectId, publicationsJson)} </div>
-      </li>
+    let recentPubs = getRecentPublications(3, publicationsJson);
+    let pubList = recentPubs.map((pub, idx) => 
+      <div className={"PubCard"+idx} key={idx}>
+        <a href={pub.url}>{pub.title}</a>
+        <p>{pub.conference}</p>
+      </div>
     );
 
     return(
       <div className="Home">
           <div className="Statement">
-            <strong>Our goal</strong> is to investigate sociable systems for mediated communication.
-            This encompasses a wide range of areas:<br/><br/>
-
-            ➭ Explore and build virtual-physical spaces for mediated communication<br/>
-            ➭ Build communication objects that connect people and/or spaces<br/>
-            ➭ Build interactive interfaces that connect spaces<br/>
-            ➭ Visualize and study how people interact within social spaces<br/><br/>
-            And more!
+            <p>{homeJson.statement}</p>
+            <div>{goalsList}</div>
           </div> 
-          <div className="Blurb">
-            Lorem ipsum dolor sit amet, mei euripidis scriptorem ne, est movet noluisse quaerendum in. Eos in legere dictas oporteat, eam cu nonumes euripidis, ei exerci accusata explicari pri. Discere luptatum consetetur in vel. Reque quodsi per ex, per cu falli fierent.
-          </div>
-	        <img src={"/images/frontpage3.jpg"} className="HomeImage"/>
+          
         <div className="WhatsNew">
           <h2>What's New</h2>
-          {projList}
+          {pubList}
         </div>
       </div>
 

@@ -8,7 +8,7 @@ import publicationsJson from '../data/json/publications.json';
 function name_format_helper(name) {
   let name_split = name.split(" ")
   for (var i = 0; i < name_split.length; i++) {
-    if (i != name_split.length - 1) {
+    if (i !== name_split.length - 1) {
       name_split[i] = name_split[i][0] + "."
     }
   }
@@ -31,16 +31,15 @@ export function getMatchingAuthors(netIds){
     }
   }
   let authorList = netIds.map(
-    (author) => entryNetIds.includes(author) ?
+    (author, idx) => entryNetIds.includes(author) ?
 		  (entryAuthors[entryNetIds.indexOf(author)].pageUrl.length > 0 ?	
-                    (<span className="Author"><a href={entryAuthors[entryNetIds.indexOf(author)].pageUrl}>
+                    (<span className="Author" key={idx}><a href={entryAuthors[entryNetIds.indexOf(author)].pageUrl}>
 		        <b>{name_format_helper(entryAuthors[entryNetIds.indexOf(author)].name)}</b>, </a></span>) :
 	            (<span className="Author">{entryAuthors[entryNetIds.indexOf(author)].name + ", "}</span>)
 		  ) : 
-		  (<span className="Author">{author + ", "}</span>)
+		  (<span className="Author" key={idx}>{author + ", "}</span>)
   );
   let author = netIds[netIds.length - 1];
-  console.log(netIds[netIds.length - 1])
   authorList[authorList.length - 1] = entryNetIds.includes(author) ?
 		  (entryAuthors[entryNetIds.indexOf(author)].pageUrl.length > 0 ?	
                     (<span className="Author"><a href={entryAuthors[entryNetIds.indexOf(author)].pageUrl}>
@@ -78,6 +77,17 @@ export function getTopPublications(num, projectId, publicationsJson){
   return(
     <div> {pubList} </div>
   );
+}
+
+// returns an array of num most recent publications
+// [PARAMS] num - number of most recent publications to return
+//          publicationsJson - the json to find matching data from
+export function getRecentPublications(num, publicationsJson){
+  // get all publications
+  // sort them by year 
+  let publications = publicationsJson.entries;
+  publications.sort((a, b) => b.year - a.year);
+  return publications.slice(0, num);
 }
 
 // Same as getTopPublications, but returns all matching pubs

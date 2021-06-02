@@ -18,10 +18,10 @@ export const Course = (props) => {
       (
         <div>Prior versions of the course
 
-          {props.prior_versions.map(priorVersion =>
+          {props.prior_versions.map((priorVersion, idx) =>
               priorVersion.url ?
-              (<span> - <a href={priorVersion.url}> {priorVersion.year} </a> </span>) :
-              (<span> - {priorVersion.year} </span>)
+              (<span key={idx}> - <a href={priorVersion.url}> {priorVersion.year} </a> </span>) :
+              (<span key={idx}> - {priorVersion.year} </span>)
               )
           }
 
